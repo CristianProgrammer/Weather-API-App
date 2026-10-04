@@ -1,4 +1,4 @@
-# Weather App
+# Weather API App
 
 A web app that shows live weather for any city using the OpenWeatherMap API, built with JavaScript, HTML, and CSS.
 
